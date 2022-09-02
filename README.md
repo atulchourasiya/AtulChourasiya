@@ -10,7 +10,6 @@ I've have been on this journey for 1½ year ! Currently I am learning React and 
 * ✉️  You can contact me at [atulchourasiya73@gmail.com](mailto:atulchourasiya73@gmail.com)
 * 🧠  I'm learning MERN Development
 * 🤝  I'm open to collaborating on React project
-* ⚡  My sister find me annoying when i start explaining the logic i have build to make my app work
 
 ### Skills
 
@@ -44,7 +43,3 @@ I've have been on this journey for 1½ year ! Currently I am learning React and 
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/atulchourasiya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulchourasiya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
