@@ -1,6 +1,4 @@
-#Welcome Folks
-
-================================
+<h1 align=center>Welcome Folks</h1>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
