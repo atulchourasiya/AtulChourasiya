@@ -2,8 +2,8 @@
 			width="2000"
 			height="450"
 			fill="none"
-			stroke-width="1px"
-			viewBox="-205 -140 2300 700"
+			stroke-width="2px"
+			viewBox="-100 -140 2100 700"
 			xmlns="http://www.w3.org/2000/svg"
 		>
 			<rect width="1900" height="450" id="repeat" fill="#000" opacity="0" display="none">
