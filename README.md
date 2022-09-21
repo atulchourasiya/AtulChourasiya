@@ -1,7 +1,7 @@
 Hi 👋 My name is Atul Chourasiya
 ================================
 
-![Atul Chourasiya]([https://github.com/blueset/blueset/raw/3ce7e89a8c855d216fb2999677411439711afdf2/EanaHandwritingAnimatedDark.svg](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg)#gh-dark-mode-only)
+![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg)#gh-dark-mode-only)
 
 MERN DEVELOPER
 --------------
