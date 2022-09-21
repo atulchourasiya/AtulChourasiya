@@ -1,8 +1,9 @@
-	<svg
+<svg
 			id="svg"
 			width="1800"
 			height="320"
-			fill="none"
+			
+			fill="transparent"
 			viewBox="-70 0 2000 450"
 			xmlns="http://www.w3.org/2000/svg"
 		>
@@ -16,7 +17,7 @@
 			</rect>
 			<g id="container" stroke="#c6e2ff">
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="2572.19287109375"
@@ -43,7 +44,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="1172.8941650390625"
@@ -70,7 +71,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="730.2672729492188"
@@ -97,7 +98,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="1282.326171875"
@@ -124,7 +125,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="1658.74169921875"
@@ -151,7 +152,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="1147.005859375"
@@ -178,7 +179,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="731.3316040039062"
@@ -205,7 +206,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="730.2677001953125"
@@ -232,7 +233,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="584.7388305664062"
@@ -259,7 +260,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="827.7307739257812"
@@ -286,7 +287,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="498.6483154296875"
@@ -313,7 +314,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="519.6785278320312"
@@ -340,7 +341,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="1583.6907958984375"
@@ -367,7 +368,7 @@
 					/>
 				</path>
 				<path
-					stroke-width="12px"
+					stroke-width="4px"
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-dasharray="827.731201171875"
@@ -397,7 +398,7 @@
 
 			<style>
 				#container {
-					animation: text-flicker-in-glow 15s linear both, flicker 3s 11s infinite alternate;
+					animation: text-flicker-in-glow 15s linear , flicker 3s 11s infinite alternate;
 				}
 
 				@keyframes text-flicker-in-glow {
