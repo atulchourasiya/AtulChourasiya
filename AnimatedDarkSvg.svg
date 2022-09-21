@@ -3,7 +3,7 @@
 			height="450"
 			fill="none"
 			stroke-width="1px"
-			viewBox="-100 -90 2100 650"
+			viewBox="-100 -100 2100 650"
 			xmlns="http://www.w3.org/2000/svg"
 		>
 			<rect width="1900" height="450" id="repeat" fill="#000" opacity="0" display="none">
