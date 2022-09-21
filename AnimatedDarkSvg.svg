@@ -1,9 +1,9 @@
 <svg
-			width="max-content"
-			height="max-content"
+			width="2000"
+			height="450"
 			fill="none"
-			stroke-width="2px"
-			viewBox="-70 0 2000 450"
+			stroke-width="3px"
+			viewBox="-310 0 2500 450"
 			xmlns="http://www.w3.org/2000/svg"
 		>
 			<rect width="1900" height="450" id="repeat" fill="#000" opacity="0" display="none">
@@ -520,11 +520,13 @@
 					54%,
 					56%,
 					100% {
+						opacity: 1;
 						filter: drop-shadow(0 0 0.5em #fff) drop-shadow(0 0 2em #08f) drop-shadow(0 0 4em #08f);
 					}
 					20%,
 					24%,
 					55% {
+						opacity: 0.2;
 						filter: none;
 					}
 				}
