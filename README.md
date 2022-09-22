@@ -2,7 +2,13 @@
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
-### About
+<p align='center' style="position:relative; top:-30px;">
+<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="10%" alt="MongoDB" style="margin: 0 5px; border-radius:50%; padding:5px;background:white" />
+<img class='mernlogo' src="./express.png" width="10%" alt="Express" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
+<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="10%" alt="React" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
+<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="10%" alt="NodeJS" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
+
+# About
 
 Hey there, I am **Atul Chourasiya** I've have been on this coding journey for 1½ year ! Despite the fact that I am a **Biochemistry Graduate[2019-22]**, the only reason I love to hit my keyboard everyday is because
 
@@ -16,10 +22,9 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 - ✉️  You can contact me at [atulchourasiya73@gmail.com](mailto:atulchourasiya73@gmail.com)
 - 💻  I'm learning MERN STACK DEVELOPMENT
 - 🤝  I'm open to collaborating on React project
-- 👨‍💻  I'm currently working in Google keep fullstack Clone 
-- 😅  Fun Fact - I love watching anime and playing chess sometimes **Dattebayo✌️**
+- 😅 Fun Fact - I love watching anime and playing chess sometimes **Dattebayo✌️**
 
-### Skills
+# Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -37,11 +42,11 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./express.png" width="36" height="36" alt="Express" /></a>
 </p>
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.facebook.com/atul.chourasiya.756859" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/atulchourasiyaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/atul-chourasiya-7414ba215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Atulchourasiyaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.github.com/atulchourasiya" target="_blank" rel="noreferrer"><img src="./github.png" width="32" height="32" /></a></p>
 
-### Badges
+# Badges
 
 <b>My GitHub Stats</b>
 
