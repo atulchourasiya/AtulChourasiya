@@ -384,7 +384,7 @@
 
 			<style>
 				#container {
-					animation: text-flicker-in-glow 3s 9.8s linear both, flicker 3s 12s infinite alternate;
+					animation: text-flicker-in-glow 3s 9.8s linear both, flicker 10s 15s infinite alternate;
 				}
 
 				@keyframes text-flicker-in-glow {
