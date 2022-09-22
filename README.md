@@ -10,7 +10,7 @@ Hey there, I am **Atul Chourasiya** I've have been on this coding journey for 1�
 
 Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor of Computer Application [2022-25]** from **Bhopal**
 
-<img align="right" src="https://github.com/atulchourasiya/atulchourasiya/blob/main/Coding.gif" width='45%'>
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width='45%'>
 
 - 🌍  I'm based in Bhopal,India
 - ✉️  You can contact me at [atulchourasiya73@gmail.com](mailto:atulchourasiya73@gmail.com)
