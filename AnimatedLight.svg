@@ -1,6 +1,6 @@
 <svg
-			width="2000"
-			height="450"
+			width="100%"
+			height="100%"
 			fill="none"
 			stroke-width="1px"
 			viewBox="-55 -125 2000 700"
@@ -28,11 +28,11 @@
 						attributeName="stroke-dashoffset"
 						from="-2572.19287109375"
 						to="0"
-						begin="1s;repeat.click+0.25s"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						begin="0s;repeat.click+0.25s"
+						dur="2s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -55,10 +55,11 @@
 						from="-1172.8941650390625"
 						to="0"
 						begin="animateA1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".7s"
+						
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -81,10 +82,10 @@
 						from="-730.2672729492188"
 						to="0"
 						begin="animateT1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".7s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -107,10 +108,10 @@
 						from="-1282.326171875"
 						to="0"
 						begin="animateU1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".5s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -133,10 +134,10 @@
 						from="-1658.74169921875"
 						to="0"
 						begin="animateL1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur="1.1s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -159,10 +160,10 @@
 						from="-1147.005859375"
 						to="0"
 						begin="animateC1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".8s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -185,10 +186,10 @@
 						from="-731.3316040039062"
 						to="0"
 						begin="animateH1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".7s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -211,10 +212,10 @@
 						from="-730.2677001953125"
 						to="0"
 						begin="animateO1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".7s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -237,10 +238,10 @@
 						from="-584.7388305664062"
 						to="0"
 						begin="animateU2.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".5s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -263,10 +264,10 @@
 						from="-827.7307739257812"
 						to="0"
 						begin="animateR1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".8s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -289,10 +290,10 @@
 						from="-498.6483154296875"
 						to="0"
 						begin="animateA2.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".5s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -315,10 +316,10 @@
 						from="-519.6785278320312"
 						to="0"
 						begin="animateS1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".5s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -341,10 +342,10 @@
 						from="-1583.6907958984375"
 						to="0"
 						begin="animateI1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".5s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
@@ -367,10 +368,10 @@
 						from="-827.731201171875"
 						to="0"
 						begin="animateY1.end"
-						dur="0.7s"
-						keyTimes="0;1"
-						calcMode="spline"
-						keySplines=".12,0,.39,0;"
+						dur=".8s"
+						keyTimes="0 1"
+						calcMode="linear"
+						
 					/>
 					<set
 						attributeName="stroke-dashoffset"
