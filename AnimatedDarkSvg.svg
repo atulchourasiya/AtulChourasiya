@@ -29,7 +29,7 @@
 						from="-2572.19287109375"
 						to="0"
 						begin="0s;repeat.click+0.25s"
-						dur="2s"
+						dur="1s"
 						keyTimes="0 1"
 						calcMode="linear"
 						
@@ -342,7 +342,7 @@
 						from="-1583.6907958984375"
 						to="0"
 						begin="animateI1.end"
-						dur="1s"
+						dur="1.2s"
 						keyTimes="0 1"
 						calcMode="linear"
 						
