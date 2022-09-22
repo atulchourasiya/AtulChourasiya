@@ -1,12 +1,6 @@
-<h1 align=center>Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='30' ></h1>
+<h1 align=center>Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
-
-<p align='center' style="position:relative; top:-30px;">
-<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="10%" alt="MongoDB" style="margin: 0 5px; border-radius:50%; padding:5px;background:white" />
-<img class='mernlogo' src="./express.png" width="10%" alt="Express" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
-<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="10%" alt="React" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
-<img class='mernlogo' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="10%" alt="NodeJS" style="margin: 0 5px; border-radius:50%; padding:5px;background:white"/>
 
 # About
 
