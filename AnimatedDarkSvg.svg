@@ -2,7 +2,7 @@
 			width="100%"
 			height="100%"
 			fill="none"
-			stroke-width="2px"
+			stroke-width="1px"
 			viewBox="-55 -125 2000 700"
 			xmlns="http://www.w3.org/2000/svg"
 		>
@@ -384,7 +384,7 @@
 
 			<style>
 				#container {
-					animation: text-flicker-in-glow 3s 9.8s linear both, flicker 10s 15s infinite alternate;
+					animation: text-flicker-in-glow 3s 9.8s linear both, flicker 10s 18s infinite alternate;
 				}
 
 				@keyframes text-flicker-in-glow {
