@@ -1,4 +1,4 @@
-<h1 align=center width='100vw' >Welcome Folk <img src='./Developer.gif' height='36' ></h1>
+<h1 align=center width='100vw' >Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
