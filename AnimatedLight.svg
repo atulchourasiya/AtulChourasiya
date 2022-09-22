@@ -342,7 +342,7 @@
 						from="-1583.6907958984375"
 						to="0"
 						begin="animateI1.end"
-						dur="1.2s"
+						dur="1s"
 						keyTimes="0 1"
 						calcMode="linear"
 						
