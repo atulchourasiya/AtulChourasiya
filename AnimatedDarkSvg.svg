@@ -134,7 +134,7 @@
 						from="-1658.74169921875"
 						to="0"
 						begin="animateL1.end"
-						dur="1s"
+						dur=".7s"
 						keyTimes="0 1"
 						calcMode="linear"
 						
