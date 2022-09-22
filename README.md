@@ -16,6 +16,7 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 - ✉️  You can contact me at [atulchourasiya73@gmail.com](mailto:atulchourasiya73@gmail.com)
 - 💻  I'm learning MERN STACK DEVELOPMENT
 - 🤝  I'm open to collaborating on React project
+- 👨‍💻  I'm currently working in Google keep fullstack Clone 
 - 😅  Fun Fact - I love watching anime and playing chess sometimes **Dattebayo✌️**
 
 ### Skills
