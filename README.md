@@ -2,15 +2,15 @@
 
 <p align=center>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../Merndark.svg" width='30%'>
-  <img alt="logo" src="../Meanlight.svg" width='30%' >
+  <source media="(prefers-color-scheme: dark)" srcset="./Merndark.svg" width='20%'>
+  <img alt="logo" src="./Meanlight.svg" width='20%' >
 </picture>
 </p>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
 <p align=center>
-<img src='https://www.pixelcrayons.com/common/img/pixel-technology-meanstack-process-image.png' width='90%'>
+<img src='./MernDiagram.png' width='90%'>
 </p>
 
 # About
