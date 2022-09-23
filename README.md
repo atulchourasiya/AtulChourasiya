@@ -1,8 +1,13 @@
 <h1 align=center>Welcome Folks <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
-<h3 align="center"><b>< MERN STACK/ ></b></h3>
+<p align=center>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../Merndark.svg" width='30%'>
+  <img alt="logo" src="../Meanlight.svg" width='30%' >
+</picture>
+</p>
 
-![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
+![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
 <p align=center>
 <img src='https://www.pixelcrayons.com/common/img/pixel-technology-meanstack-process-image.png' width='90%'>
