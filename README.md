@@ -59,6 +59,11 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p>
  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+ 
 #
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=atulchorasiya&label=Profile%20views&color=0e75b6&style=flat" alt="atulchorasiya" /> </p>
