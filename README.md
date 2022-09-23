@@ -49,11 +49,12 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 
 # Badges
 
+<p align=center>
 <b>My GitHub Stats</b>
-
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-stats.vercel.app/api?username=atulchourasiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="atulchourasiya's GitHub stats" /></a>
 
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
 #
 
