@@ -2,8 +2,8 @@
 
 <p align=center>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Merndark.svg" width='20%'>
-  <img alt="logo" src="./Meanlight.svg" width='20%' >
+  <source media="(prefers-color-scheme: dark)" srcset="./Merndark.svg" width='20%' height='20px'>
+  <img alt="logo" src="./Meanlight.svg" width='20%' height='20px'>
 </picture>
 </p>
 
