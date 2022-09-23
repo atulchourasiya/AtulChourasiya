@@ -1,11 +1,6 @@
 <h1 align=center>Welcome Folks <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
-
-<p align=center>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Merndark.svg" width='20%' height='20px'>
-  <img alt="logo" src="./Meanlight.svg" width='20%' height='20px'>
-</picture>
-</p>
+<br/>
+<h3 align=center><em><strong>&lt;MERN STACK DEVELOPER/><strong></em></h3>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
@@ -15,9 +10,9 @@
 
 # About
 
-Hey there, I am **Atul Chourasiya** I've have been on this coding journey for 1½ year ! Despite the fact that I am a **Biochemistry Graduate[2019-22]**, the only reason I love to hit my keyboard everyday is because
+Hey there, I am **Atul Chourasiya**, I've have been on this coding journey for 1½ year ! Despite the fact that I am a **Biochemistry Graduate[2019-22]**, the only reason I love to hit my keyboard everyday is because
 
-> _I have a deep passion in my heart to build something that satisfies my soul_.
+> _I have deep passion in my heart to build something that satisfies my soul_.
 
 Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor of Computer Application [2022-25]** from **Bhopal**
 
