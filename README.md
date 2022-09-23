@@ -1,6 +1,6 @@
 <h1 align=center>Welcome Folks <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 <br/>
-<h3 align=center><em><strong>&lt;MERN STACK DEVELOPER/><strong></em></h3>
+<h3 align=center><em>&lt;MERN STACK DEVELOPER/></em></h3>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
