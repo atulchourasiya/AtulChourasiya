@@ -4,7 +4,9 @@
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
-<img src='https://www.pixelcrayons.com/common/img/pixel-technology-meanstack-process-image.png' width='100%'>
+<p align=center>
+<img src='https://www.pixelcrayons.com/common/img/pixel-technology-meanstack-process-image.png' width='90%'>
+</p>
 
 # About
 
