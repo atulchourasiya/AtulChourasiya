@@ -1,4 +1,4 @@
-<h1 align=center>Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
+<h1 align=center>Welcome Folks <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
 <h3 align="center"><b>< MERN STACK/ ></b></h3>
 
@@ -49,14 +49,12 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 
 # GitHub Stats
 
- <p align=center>
- </p>
-<p align=center>
+<p align=left>
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-stats.vercel.app/api?username=atulchourasiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="atulchourasiya's GitHub stats" /></a>
  <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-<p align=center>
+<p align=left>
 <a href="http://www.github.com/atulchourasiya"><img src="https://activity-graph.herokuapp.com/graph?username=atulchourasiya&bg_color=0f172a&color=ffffff&line=64748b&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </p>
  
