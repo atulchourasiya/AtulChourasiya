@@ -1,6 +1,6 @@
 <h1 align=center>Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
-<h3 align="center">< MERN STACK/ ></h3>
+<h3 align="center"><b>< MERN STACK/ ></b></h3>
 
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
@@ -47,25 +47,22 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 
 <p align="left"> <a href="https://www.facebook.com/atul.chourasiya.756859" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/atulchourasiyaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/atul-chourasiya-7414ba215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Atulchourasiyaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.github.com/atulchourasiya" target="_blank" rel="noreferrer"><img src="./github.png" width="32" height="32" /></a></p>
 
-# Badges
+# GitHub Stats
 
  <p align=center>
-  <b>My GitHub Stats</b>
  </p>
 <p align=center>
 <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-stats.vercel.app/api?username=atulchourasiya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="atulchourasiya's GitHub stats" /></a>
+ <a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-<p align=center>
-<a href="http://www.github.com/atulchourasiya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchourasiya&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
- 
+
 <p align=center>
 <a href="http://www.github.com/atulchourasiya"><img src="https://activity-graph.herokuapp.com/graph?username=atulchourasiya&bg_color=0f172a&color=ffffff&line=64748b&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </p>
  
- <p align=center>
+<!--  <p align=left>
 <a href="https://github.com/atulchourasiya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulchourasiya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- </p>
+ </p> -->
  
 #
 
