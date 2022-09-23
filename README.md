@@ -1,6 +1,10 @@
 <h1 align=center>Welcome Folk <img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' height='36' ></h1>
 
+<h3 align="center">< MERN STACK/ ></h3>
+
 ![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDarkSvg.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
+
+<img src='https://www.pixelcrayons.com/common/img/pixel-technology-meanstack-process-image.png' width='100%'>
 
 # About
 
@@ -10,12 +14,13 @@ Hey there, I am **Atul Chourasiya** I've have been on this coding journey for 1�
 
 Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor of Computer Application [2022-25]** from **Bhopal**
 
-<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width='45%'>
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width='50%'>
 
 - 🌍  I'm based in Bhopal,India
 - ✉️  You can contact me at [atulchourasiya73@gmail.com](mailto:atulchourasiya73@gmail.com)
 - 💻  I'm learning MERN STACK DEVELOPMENT
 - 🤝  I'm open to collaborating on React project
+- 👨‍💻  I'm Working on Google keep fullstack Clone 
 - 😅 Fun Fact - I love watching anime and playing chess sometimes **Dattebayo✌️**
 
 # Skills
