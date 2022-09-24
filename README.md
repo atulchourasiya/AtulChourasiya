@@ -2,12 +2,7 @@
 <br/>
 <h3 align=center><em>&lt;MERN STACK DEVELOPER/></em></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg">
-  <img alt="Atul Chourasiya" src="https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg">
-</picture>
-
-  
+![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedDark.svg#gh-dark-mode-only)![Atul Chourasiya](https://github.com/atulchourasiya/atulchourasiya/blob/main/AnimatedLight.svg#gh-light-mode-only)
 
 <p align=center>
 <img src='./MernDiagram.png' width='90%'>
