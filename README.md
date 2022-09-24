@@ -60,7 +60,7 @@ Currently I am learning **MERN STACK DEVELOPMENT** and also pursing **Bachelor o
 </p>
 
 <p align=left>
-<a href="http://www.github.com/atulchourasiya"><img src="https://activity-graph.herokuapp.com/graph?username=atulchourasiya&bg_color=0f172a&color=ffffff&line=64748b&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/atulchourasiya"><img src="https://activity-graph.herokuapp.com/graph?username=atulchourasiya&bg_color=181824&color=ffffff&line=64748b&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </p>
  
 <!--  <p align=left>
